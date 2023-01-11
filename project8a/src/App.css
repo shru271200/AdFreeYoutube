@@ -1,0 +1,22 @@
+.papersearch{
+    color: white;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.paper2{
+    height:250px;
+    color: green;
+    border: 20px;
+    margin: 0px;
+}
+.button1{
+    background-color: red;
+    color: white;
+    padding: 8px;
+    margin-top: 20px;
+    margin-left: 90%;
+    font-weight: 400;
+}
+
